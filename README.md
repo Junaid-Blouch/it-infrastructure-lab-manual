@@ -4,7 +4,7 @@
 **Degree:** BS‑IT  
 **Session:** 2023–2027  
 **Student:** M. Junaid (Reg. No. 2023‑IT‑39)  
-**Submitted to:** MS Sunaina Shamshad  
+**Supervised by:** MS Sunaina Shamshad  
 
 ---
 
